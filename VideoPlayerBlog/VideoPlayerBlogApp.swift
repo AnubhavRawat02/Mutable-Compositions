@@ -11,7 +11,8 @@ import SwiftUI
 struct VideoPlayerBlogApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MakeComposition2()
+//            ContentView()
         }
     }
 }
